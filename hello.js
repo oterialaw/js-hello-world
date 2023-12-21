@@ -4,7 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log(7+3)
+console.log (16+23)
+console.log (19+14)
+console.log(8+7);  console.log('Hello, World!')
+console.log("Disney's Tangled")
+console.log(`Frozen's Elsa says "Let it Snow!"`);
 
 /*  
 Next, PLAY! 
